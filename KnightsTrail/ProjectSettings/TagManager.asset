@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DialogueBox
+  - Znak
+  - MovingPlatform
+  - ArcherEnemy
+  - WaterBucket
+  - WaterJar
+  - WaterScale
+  - NPC
+  - King
+  - Frog
+  - Skeleton
+  - Wizard
+  - CastleMonsters
+  - Ground
+  - Box
+  - Golem
+  - ShopPanel
+  - Castle Monsters
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - TalkActive
+  - Enemy
+  - EnemyBack
+  - Climbable
+  - ArrowPlayer
+  - CompanionLayer
+  - KingCompanion
+  - Wizard
+  - CastleBridge
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BehindBehind
+    uniqueID: 1277713669
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2158585601
+    locked: 0
+  - name: Testing
+    uniqueID: 442888457
+    locked: 0
+  - name: BehindThings
+    uniqueID: 3973185477
+    locked: 0
+  - name: Field
+    uniqueID: 416630959
+    locked: 0
+  - name: Player
+    uniqueID: 2455401521
+    locked: 0
